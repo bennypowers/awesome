@@ -49,6 +49,7 @@ Plugins for working with CSS.
 - [embed-css](https://github.com/kei-ito/rollup-plugin-embed-css) - Import and append CSS to a bundle.
 - [less](https://github.com/xiaofuzi/rollup-plugin-less) - Compile LESS files.
 - [less-modules](https://github.com/katrotz/rollup-plugin-less-modules) - Import or Bundle LESS files.
+- [lit-css](https://github.com/bennypowers/rollup-plugin-lit-css) - Import CSS as lit-element tagged css literals.
 - [modular-css](https://github.com/tivac/modular-css#rollup) - Alternative CSS Modules implementation supporting Rollup.
 - [postcss](https://github.com/egoist/rollup-plugin-postcss) - Seamless integration with PostCSS.
 - [sass](https://github.com/differui/rollup-plugin-sass#readme) - SASS integration for a bundle.
